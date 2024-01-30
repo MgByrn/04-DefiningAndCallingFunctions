@@ -16,7 +16,9 @@
 
 def add_two_and_three():
     result = 2 + 3
+    
     print(result)
+add_two_and_three()
 
 ###############################################################################
 #   Now, if you try to run your code at this point, you will see that nothing
@@ -45,5 +47,3 @@ def add_two_and_three():
 #   Make sure you understand these concepts. If you have any questions, please
 #   ask them now.
 ###############################################################################
-    
-# add_two_and_three()
